@@ -1,0 +1,60 @@
+/* Standard tags */
+
+	body {
+		min-height: 500px;
+	}
+
+	footer {
+		max-width: 300px;
+		margin-bottom: 20px;
+		position: relative;
+		bottom: 10px;
+		left: 50%;
+	}
+
+	td {
+		text-align: center;
+	}
+
+/* Expands Bootstrap */
+	.container {
+		
+	}
+
+	.jumbotron {
+
+	}
+
+	.row {
+		margin-bottom: 40px;
+		min-height: 100px;
+	}
+
+	.col-lg-6 {
+		padding: 0 5px 0 5px;
+	}
+
+/* Expands font awesome */
+	.fa {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+
+	.fa-quote-left, .fa-quote-right {
+		color: blue;
+	}
+
+	.fa-heart {
+		color: red;
+	}
+
+#b5-logo {
+	display: block;
+	margin: 0 auto;
+}
+
+#b5-station {
+	margin-top: 75px;
+	max-width: 550px;
+	max-height: 423px;
+}

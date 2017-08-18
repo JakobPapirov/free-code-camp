@@ -1,0 +1,25 @@
+/* Color theme from W3Schools. I've added 'red' as I'm using another theme as well */
+/* https://www.w3schools.com/w3css/w3css_color_themes.asp */
+
+.w3-theme-red-l5 {color:#000 !important; background-color:#fef4f3 !important}
+.w3-theme-red-l4 {color:#000 !important; background-color:#fdd9d6 !important}
+.w3-theme-red-l3 {color:#000 !important; background-color:#fbb3ae !important}
+.w3-theme-red-l2 {color:#000 !important; background-color:#f98d85 !important}
+.w3-theme-red-l1 {color:#fff !important; background-color:#f6665c !important}
+.w3-theme-red-d1 {color:#fff !important; background-color:#f32617 !important}
+.w3-theme-red-d2 {color:#fff !important; background-color:#e11a0c !important}
+.w3-theme-red-d3 {color:#fff !important; background-color:#c5170a !important}
+.w3-theme-red-d4 {color:#fff !important; background-color:#a91409 !important}
+.w3-theme-red-d5 {color:#fff !important; background-color:#8d1007 !important}
+
+.w3-theme-red-light {color:#000 !important; background-color:#fef4f3 !important}
+.w3-theme-red-dark {color:#fff !important; background-color:#8d1007 !important}
+.w3-theme-red-action {color:#fff !important; background-color:#8d1007 !important}
+
+.w3-theme-red {color:#fff !important; background-color:#f44336 !important}
+.w3-text-theme-red {color:#f44336 !important}
+.w3-border-theme-red {border-color:#f44336 !important}
+
+.w3-hover-theme-red:hover {color:#fff !important; background-color:#f44336 !important}
+.w3-hover-text-theme-red:hover {color:#f44336 !important}
+.w3-hover-border-theme-red:hover {border-color:#f44336 !important}

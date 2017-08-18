@@ -1,0 +1,25 @@
+/* Color theme from W3Schools. I've added 'blue' as I'm using another theme as well */
+/* https://www.w3schools.com/w3css/w3css_color_themes.asp */
+
+.w3-theme-blue-l5 {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-blue-l4 {color:#000 !important; background-color:#d2eafd !important}
+.w3-theme-blue-l3 {color:#000 !important; background-color:#a6d4fa !important}
+.w3-theme-blue-l2 {color:#000 !important; background-color:#79bff8 !important}
+.w3-theme-blue-l1 {color:#fff !important; background-color:#4daaf6 !important}
+.w3-theme-blue-d1 {color:#fff !important; background-color:#0c87eb !important}
+.w3-theme-blue-d2 {color:#fff !important; background-color:#0b78d1 !important}
+.w3-theme-blue-d3 {color:#fff !important; background-color:#0a69b7 !important}
+.w3-theme-blue-d4 {color:#fff !important; background-color:#085a9d !important}
+.w3-theme-blue-d5 {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme-blue-light {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-blue-dark {color:#fff !important; background-color:#074b83 !important}
+.w3-theme-blue-action {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme-blue {color:#fff !important; background-color:#2196f3 !important}
+.w3-text-theme-blue {color:#2196f3 !important}
+.w3-border-theme-blue {border-color:#2196f3 !important}
+
+.w3-hover-theme-blue:hover {color:#fff !important; background-color:#2196f3 !important}
+.w3-hover-text-theme-blue:hover {color:#2196f3 !important}
+.w3-hover-border-theme-blue:hover {border-color:#2196f3 !important}
